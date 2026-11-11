@@ -1,0 +1,24 @@
+# Core LangChain
+langchain
+langchain-core
+langchain-community
+langchain-classic
+langchain-text-splitters
+
+# Gemini (chat model + embeddings) - replaces OpenAI and Mistral
+langchain-google-genai
+
+# Vector database
+langchain-chroma
+chromadb
+
+# Document loaders
+pypdf
+beautifulsoup4
+lxml
+arxiv
+
+# Environment variables + UI
+python-dotenv
+streamlit
+requests
